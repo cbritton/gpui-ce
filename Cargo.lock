@@ -2142,7 +2142,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "gpui-ce"
+name = "gpui"
 version = "0.2.2"
 dependencies = [
  "anyhow",
