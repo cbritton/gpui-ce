@@ -1,5 +1,5 @@
 [package]
-name = "gpui-ce"
+name = "gpui"
 version = "0.2.2"
 edition = "2024"
 authors = ["Nathan Sobo <nathan@zed.dev>"]
